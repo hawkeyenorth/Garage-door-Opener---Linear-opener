@@ -8,10 +8,10 @@
 #define RESET_PIN 5
 
 // ---------------- DEFAULT SETTINGS ----------------
-String mainPW  = "garage123";
+String mainPW  = "ADD YOUR PASSWORD"; //16 CHARACHTERS MAX
 String guestPW = "";
-String apSSID  = "PicoW_Garage_AP";
-String apPW    = "12345678";
+String apSSID  = "ADD YOUR SSID";
+String apPW    = "ADD YOUR PASSWORD"; //16 CHARACTERS MAX
 
 bool loggedIn = false;
 bool isGuest  = false;
